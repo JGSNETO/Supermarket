@@ -5,8 +5,7 @@ Created on Wed Mar  2 10:20:28 2022
 @author: Jose Gomes
 """
 #from utils.helper import formata_float_str_moeda
-from helper import formata_float_str_moeda
-
+from models.helper import formata_float_str_moeda
 class Produto:
     
     contador: int = 1
